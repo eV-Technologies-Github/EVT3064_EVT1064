@@ -1,7 +1,7 @@
 
 # eV-Technologies 64 ports correlators
 
-> 10MHz-30GHz and 10MHz-10GHz 2x64 Port Solid-State mmWave and RF Crossover Switchs
+> 10MHz-30GHz and 10MHz-10GHz 2x64 Port Solid-State mmWave and RF Crossover Switches
 
 <a href="https://ev-technologies.com/">
 <img src="img/logo_eV-Technologies.png" height="60" alt="logo_eV-Technologies">
