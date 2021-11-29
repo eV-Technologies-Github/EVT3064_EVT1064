@@ -1,7 +1,7 @@
 
 # eV-Technologies 64 ports correlators
 
-> 10MHz-30GHz and 10MHz-10GHz 2x64 Port Solid-State mmWave and RF Crossover Switches
+> 16KHz-30GHz and 10MHz-10GHz 2x64 Port Solid-State mmWave and RF Crossover Switches
 
 <a href="https://ev-technologies.com/">
 <img src="img/logo_eV-Technologies.png" height="60" alt="logo_eV-Technologies">
@@ -24,7 +24,7 @@ The switching speed with USB is dependent on the host computer. The EVT3064 swit
 
 The *EVT-1064* is a fast RF Correlator with USB controlled crossover switch-matrix that can switch any of **two common ports** to any of **64 input/output ports**.
 
-The features are the same as the EVT3064 but in the 10MHz - 10GHz frequencies bands
+The features are the same as the EVT3064 but in the 16KHz - 10GHz frequencies bands
 
 <img src="img/Correlator.jpg" height="450" alt="Correlator">
 
